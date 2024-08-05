@@ -1,0 +1,3 @@
+[submodule "day_3_assignment/day_3_assignment/Linet-Ngina-calculator"]
+	path = day_3_assignment/day_3_assignment/Linet-Ngina-calculator
+	url = git@github.com:LinetNgina/Simple_Calculator.git
